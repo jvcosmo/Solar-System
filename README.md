@@ -11,7 +11,6 @@ Notes: If you're looking for the code from a specific episode, you can find it i
 [Watch episode 03: Atmospheres](https://youtu.be/DxfEbulyFcY)
 
 ![Atmosphere](https://raw.githubusercontent.com/SebLague/Images/master/Atmosphere.png)
-![Atmosphere](https://a.blendernation.com/images/60ca90c8f1e962c2964a20bb20071db7.jpg)
 ![Procedural Moons and Planets](https://raw.githubusercontent.com/SebLague/Images/master/Procedural%20moons%20and%20planets.png)
 
 ![SolarSystem](https://github.com/SebLague/Images/blob/master/Solar%20System.png?raw=true)
